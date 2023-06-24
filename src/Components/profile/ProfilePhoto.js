@@ -1,5 +1,5 @@
 import React from 'react'
-import image from "../../assets/124703047.png"
+import image from "../../assets/profileIMG.avif"
 
 const ProfilePhoto = () => {
   return (
